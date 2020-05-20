@@ -8,7 +8,7 @@
 **Data de entrega:** 27/05/20
 
 Essa prova consiste em criar uma aplicação usando React Native com Expo. Você poderá criar a aplicação que quiser usando qualquer API. A aplicação deverá seguir os critérios de avaliação descritos abaixo. **O seu aplicativo deverá ter no mínimo 2 telas.**
-**O uso de uma API é obrigatório para carregar as informações no aplicativo**, e ela pode ter sido criada por você. Caso a API tenha sido criada por você, será necessário enviar o projeto dessa API.
+**O uso de uma API é obrigatório para carregar as informações no aplicativo**, e ela pode ser de sua autoria. Caso a API tenha sido criada por você, será necessário enviar o projeto dessa API.
 
 ## 1. Critérios de avaliação
 
