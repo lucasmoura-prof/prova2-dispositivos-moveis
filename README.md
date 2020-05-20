@@ -1,4 +1,4 @@
-![N|Solid](https://iftmituiutaba.com.br/img/logo_horizontal.png)
+![IFTM-Ituiutaba](https://iftmituiutaba.com.br/img/logo_horizontal.png)
 
 # Prova 2 – Criar uma aplicação com React Native
 
@@ -11,6 +11,8 @@ Essa prova consiste em criar uma aplicação usando React Native com Expo. Você
 **O uso de uma API é obrigatório para carregar as informações no aplicativo**, e ela pode ter sido criada por você. Caso a API tenha sido criada por você, será necessário enviar o projeto dessa API.
 
 ## 1. Critérios de avaliação
+
+![Critérios de avaliação](/images/grafico-criterios-avaliacao.png)
 
 ### 1.1 Qualidade do código
 Serão verificados a qualidade dos códigos e estilização de componentes, o bom uso de funções prontas do Java Script, recursos do JS ES6+ etc. Também serão verificadas as estruturas de arquivos e pastas.
