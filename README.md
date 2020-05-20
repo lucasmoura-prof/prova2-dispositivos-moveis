@@ -3,7 +3,8 @@
 # Prova 2 – Criar uma aplicação com React Native
 
 
-**Valor:**  15 pontos 
+**Valor:**  15 pontos
+
 **Data de entrega:** 27/05/20
 
 Essa prova consiste em criar uma aplicação usando React Native com Expo. Você poderá criar a aplicação que quiser usando qualquer API. A aplicação deverá seguir os critérios de avaliação descritos abaixo. **O seu aplicativo deverá ter no mínimo 2 telas.**
